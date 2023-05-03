@@ -17,4 +17,4 @@ const generateArray = (arr) => {
 };
 
 const result = generateArray(arr);
-console.log(result(3));
+console.log(result);
